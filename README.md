@@ -25,4 +25,4 @@ GOALS:
 
 both have a more in depth explanation in the word document
 
-## NOTE: use the dlls in the resurce folder to run the solution
+## NOTE: put the dlls in the resurce folder to run the solution
